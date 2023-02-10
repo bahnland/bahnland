@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bahnland
-- 👀 I’m interested in ray tracing (at least for now)
-- 🌱 I’m currently learning all sorts of distributed stuffs
+- 👀 I’m interested in physically based simulation and CUDA (at least for now)
+- 🌱 I’m currently learning all sorts of HPC stuffs
 
 <!---
 bahnland/bahnland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
