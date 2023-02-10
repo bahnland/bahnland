@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bahnland
+- 👋 Hi, I’m @bahnland and I love traveling by train
 - 👀 I’m interested in physically based simulation and CUDA (at least for now)
 - 🌱 I’m currently learning all sorts of HPC stuffs
 
